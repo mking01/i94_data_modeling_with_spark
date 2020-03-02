@@ -20,8 +20,8 @@ Steps 1-3 reside in the Capstone_Prelim_Analysis.ipynb file.  Steps 4 and 4 resi
 - immigration_data_sample.csv: Alternate version of i94 immgration data
 - airport-codes_csv.csv: .csv file containing data on all airports
 
-## To Run:
-Load jupyter notebooks and iterate through cells.
+## To Run
+Load Jupyter notebooks and iterate through cells.
 
 ## Credits and Acknowledgements
 This project was completed in conjunction with Udacity's Data Engineering Nanodegree program.
